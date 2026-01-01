@@ -28,3 +28,7 @@ This project analyzes e-commerce sales data to identify key business insights re
 ## Outcome
 The dashboard provides a clear and interactive view of sales performance, enabling stakeholders to identify high-performing regions and optimize business strategies.
 
+<img width="1440" height="808" alt="image" src="https://github.com/user-attachments/assets/6abff468-b867-4328-bedd-a98b85307426" />
+
+
+
